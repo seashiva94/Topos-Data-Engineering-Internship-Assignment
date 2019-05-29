@@ -1,0 +1,315 @@
+,2018rank,city,state,2018estimate,2010census,change(%),2016 land area(sq mi),2016 land area(sq km),2016 population density (/sq mi),2016 population density (/sq km),location,wiki_city_url,Annual high temperature(F),Annual low temperature(F),Average temperature(F),Average annual precipitation - rainfall(in)
+0,1,New York City,New York,8398748,8175133,2.74,301.5,780.9,28317.0,10933.0,40°39′49″N 73°56′19″W﻿ / ﻿40.6635°N 73.9387°W,https://en.wikipedia.org/wiki/New_York_City,-,-,-,-
+1,2,Los Angeles,California,3990456,3792621,5.22,468.7,1213.9,8484.0,3276.0,34°01′10″N 118°24′39″W﻿ / ﻿34.0194°N 118.4108°W,https://en.wikipedia.org/wiki/Los_Angeles,71.7,55.9,63.8,18.67
+2,3,Chicago,Illinois,2705994,2695598,0.39,227.3,588.7,11900.0,4600.0,41°50′15″N 87°40′54″W﻿ / ﻿41.8376°N 87.6818°W,https://en.wikipedia.org/wiki/Chicago,56.8,42.5,49.65,33.2
+3,4,Houston,Texas,2325502,2100263,10.72,637.5,1651.1,3613.0,1395.0,29°47′12″N 95°23′27″W﻿ / ﻿29.7866°N 95.3909°W,https://en.wikipedia.org/wiki/Houston,79.7,60.2,69.95,49.58
+4,5,Phoenix,Arizona,1660272,1445632,14.85,517.6,1340.6,3120.0,1200.0,33°34′20″N 112°05′24″W﻿ / ﻿33.5722°N 112.0901°W,https://en.wikipedia.org/wiki/Phoenix,86.7,63.4,75.05,8.04
+5,6,Philadelphia,Pennsylvania,1584138,1526006,3.81,134.2,347.6,11683.0,4511.0,40°00′34″N 75°08′00″W﻿ / ﻿40.0094°N 75.1333°W,https://en.wikipedia.org/wiki/Philadelphia,64.7,47.0,55.85,41.45
+6,7,San Antonio,Texas,1532233,1327407,15.43,461.0,1194.0,3238.0,1250.0,29°28′21″N 98°31′30″W﻿ / ﻿29.4724°N 98.5251°W,https://en.wikipedia.org/wiki/San_Antonio,79.8,57.6,68.7,32.91
+7,8,San Diego,California,1425976,1307402,9.07,325.2,842.3,4325.0,1670.0,32°48′55″N 117°08′06″W﻿ / ﻿32.8153°N 117.1350°W,https://en.wikipedia.org/wiki/San_Diego,69.8,57.5,63.65,10.4
+8,9,Dallas,Texas,1345047,1197816,12.29,340.9,882.9,3866.0,1493.0,32°47′36″N 96°45′59″W﻿ / ﻿32.7933°N 96.7665°W,https://en.wikipedia.org/wiki/Dallas,77.1,51.5,64.3,40.97
+9,10,San Jose,California,1030119,945942,8.9,177.5,459.7,5777.0,2231.0,37°17′48″N 121°49′08″W﻿ / ﻿37.2967°N 121.8189°W,https://en.wikipedia.org/wiki/San_Jose,72.6,50.5,61.55,15.09
+10,11,Austin,Texas,964254,790390,22.0,312.7,809.9,3031.0,1170.0,30°18′14″N 97°45′16″W﻿ / ﻿30.3039°N 97.7544°W,https://en.wikipedia.org/wiki/Austin,79.8,59.0,69.4,34.25
+11,12,Jacksonville,Florida,903889,821784,9.99,747.4,1935.8,1178.0,455.0,30°20′13″N 81°39′42″W﻿ / ﻿30.3369°N 81.6616°W,https://en.wikipedia.org/wiki/Jacksonville,79.9,55.9,67.9,-
+12,13,Fort Worth,Texas,895008,741206,20.75,342.9,888.1,2491.0,962.0,32°46′53″N 97°20′48″W﻿ / ﻿32.7815°N 97.3467°W,https://en.wikipedia.org/wiki/Fort_Worth,76.7,53.8,65.25,-
+13,14,Columbus,Ohio,892533,787033,13.4,218.5,565.9,3936.0,1520.0,39°59′07″N 82°59′05″W﻿ / ﻿39.9852°N 82.9848°W,https://en.wikipedia.org/wiki/Columbus,62.5,43.3,52.9,56.11
+14,15,San Francisco,California,883305,805235,9.7,46.9,121.5,18569.0,7170.0,37°43′38″N 123°01′56″W﻿ / ﻿37.7272°N 123.0322°W,https://en.wikipedia.org/wiki/San_Francisco,63.8,50.8,57.3,23.64
+15,16,Charlotte,North Carolina,872498,731424,19.29,305.4,791.0,2757.0,1064.0,35°12′28″N 80°49′52″W﻿ / ﻿35.2078°N 80.8310°W,https://en.wikipedia.org/wiki/Charlotte,70.8,48.8,59.8,41.63
+16,17,Indianapolis,Indiana,867125,820445,5.69,361.5,936.3,2366.0,914.0,39°46′36″N 86°08′45″W﻿ / ﻿39.7767°N 86.1459°W,https://en.wikipedia.org/wiki/Indianapolis,62.4,43.8,53.1,42.2
+17,18,Seattle,Washington,744955,608660,22.39,83.8,217.0,8405.0,3245.0,47°37′14″N 122°21′03″W﻿ / ﻿47.6205°N 122.3509°W,https://en.wikipedia.org/wiki/Seattle,58.8,45.1,51.95,34.1
+18,19,Denver,Colorado,716492,600158,19.38,153.3,397.0,4521.0,1746.0,39°45′43″N 104°52′52″W﻿ / ﻿39.7619°N 104.8811°W,https://en.wikipedia.org/wiki/Denver,64.0,36.3,50.15,15.54
+19,20,"Washington, D.C.",District of Columbia,702455,601723,16.74,61.1,158.2,11148.0,4304.0,38°54′15″N 77°01′02″W﻿ / ﻿38.9041°N 77.0172°W,"https://en.wikipedia.org/wiki/Washington,_D.C.",-,-,-,-
+20,21,Boston,Massachusetts,694583,617594,12.47,48.3,125.1,13938.0,5381.0,42°19′55″N 71°01′13″W﻿ / ﻿42.3320°N 71.0202°W,https://en.wikipedia.org/wiki/Boston,58.7,44.1,51.4,43.56
+21,22,El Paso,Texas,682669,649121,5.17,256.8,665.1,2660.0,1030.0,31°50′54″N 106°25′37″W﻿ / ﻿31.8484°N 106.4270°W,https://en.wikipedia.org/wiki/El_Paso,77.5,51.8,64.65,9.69
+22,23,Detroit,Michigan,672662,713777,-5.76,138.8,359.5,4847.0,1871.0,42°22′59″N 83°06′08″W﻿ / ﻿42.3830°N 83.1022°W,https://en.wikipedia.org/wiki/Detroit,56.7,40.7,48.7,30.97
+23,24,Nashville,Tennessee,669053,601222,11.28,475.9,1232.6,1388.0,536.0,36°10′18″N 86°47′06″W﻿ / ﻿36.1718°N 86.7850°W,https://en.wikipedia.org/wiki/Nashville,69.7,48.8,59.25,47.24
+24,25,Portland,Oregon,653115,583776,11.88,133.5,345.8,4793.0,1851.0,45°32′13″N 122°39′00″W﻿ / ﻿45.5370°N 122.6500°W,https://en.wikipedia.org/wiki/Portland,63.3,45.7,54.5,35.98
+25,26,Memphis,Tennessee,650618,646889,0.58,317.4,822.1,2056.0,794.0,35°06′10″N 89°58′39″W﻿ / ﻿35.1028°N 89.9774°W,https://en.wikipedia.org/wiki/Memphis,72.4,53.6,63.0,53.67
+26,27,Oklahoma City,Oklahoma,649021,579999,11.9,606.3,1570.3,1053.0,407.0,35°28′02″N 97°30′49″W﻿ / ﻿35.4671°N 97.5137°W,https://en.wikipedia.org/wiki/Oklahoma_City,72.2,50.8,61.5,36.46
+27,28,Las Vegas,Nevada,644644,583756,10.43,134.4,348.1,4709.0,1818.0,36°13′45″N 115°15′36″W﻿ / ﻿36.2292°N 115.2601°W,https://en.wikipedia.org/wiki/Las_Vegas,80.0,58.6,69.3,4.17
+28,29,Louisville,Kentucky,620118,597337,3.81,263.5,682.5,2339.0,903.0,38°09′55″N 85°38′51″W﻿ / ﻿38.1654°N 85.6474°W,https://en.wikipedia.org/wiki/Louisville,67.8,48.6,58.2,44.89
+29,30,Baltimore,Maryland,602495,620961,-2.97,80.9,209.5,7598.0,2934.0,39°18′00″N 76°36′38″W﻿ / ﻿39.3000°N 76.6105°W,https://en.wikipedia.org/wiki/Baltimore,66.3,50.6,58.45,40.72
+30,31,Milwaukee,Wisconsin,592025,594833,-0.47,96.2,249.2,6186.0,2388.0,43°03′48″N 87°58′00″W﻿ / ﻿43.0633°N 87.9667°W,https://en.wikipedia.org/wiki/Milwaukee,55.5,39.9,47.7,34.41
+31,32,Albuquerque,New Mexico,560218,545852,2.63,188.2,487.4,2972.0,1147.0,35°06′20″N 106°38′51″W﻿ / ﻿35.1056°N 106.6474°W,https://en.wikipedia.org/wiki/Albuquerque,68.8,45.4,57.1,9.39
+32,33,Tucson,Arizona,545975,520116,4.97,230.8,597.8,2299.0,888.0,32°09′11″N 110°52′14″W﻿ / ﻿32.1531°N 110.8706°W,https://en.wikipedia.org/wiki/Tucson,83.7,58.1,70.9,11.92
+33,34,Fresno,California,530093,494665,7.16,114.4,296.3,4563.0,1762.0,36°47′01″N 119°47′36″W﻿ / ﻿36.7836°N 119.7934°W,https://en.wikipedia.org/wiki/Fresno,76.9,51.3,64.1,12.83
+34,35,Mesa,Arizona,508958,439041,15.92,137.9,357.2,3514.0,1357.0,33°24′07″N 111°43′03″W﻿ / ﻿33.4019°N 111.7174°W,https://en.wikipedia.org/wiki/Mesa,86.4,57.5,71.95,9.29
+35,36,Sacramento,California,508529,466488,9.01,97.9,253.6,5059.0,1953.0,38°34′00″N 121°28′07″W﻿ / ﻿38.5666°N 121.4686°W,https://en.wikipedia.org/wiki/Sacramento,73.6,48.3,60.95,18.51
+36,37,Atlanta,Georgia,498044,420003,18.58,133.5,345.8,3539.0,1366.0,33°45′46″N 84°25′22″W﻿ / ﻿33.7629°N 84.4227°W,https://en.wikipedia.org/wiki/Atlanta,70.3,52.5,61.4,47.12
+37,38,Kansas City,Missouri,491918,459787,6.99,315.0,815.8,1528.0,590.0,39°07′30″N 94°33′04″W﻿ / ﻿39.1251°N 94.5510°W,https://en.wikipedia.org/wiki/Kansas_City,66.0,47.4,56.7,39.06
+38,39,Colorado Springs,Colorado,472688,416427,13.51,195.6,506.6,2378.0,918.0,38°52′02″N 104°45′39″W﻿ / ﻿38.8673°N 104.7607°W,https://en.wikipedia.org/wiki/Colorado_Springs,62.1,35.8,48.95,16.56
+39,40,Miami,Florida,470914,399457,17.89,36.0,93.2,12599.0,4865.0,25°46′31″N 80°12′31″W﻿ / ﻿25.7752°N 80.2086°W,https://en.wikipedia.org/wiki/Miami,84.2,69.9,77.05,61.93
+40,41,Raleigh,North Carolina,469298,403892,16.19,145.1,375.8,3163.0,1221.0,35°49′50″N 78°38′30″W﻿ / ﻿35.8306°N 78.6418°W,https://en.wikipedia.org/wiki/Raleigh,71.3,50.3,60.8,46.58
+41,42,Omaha,Nebraska,468262,408958,14.5,133.2,345.0,3356.0,1296.0,41°15′52″N 96°02′42″W﻿ / ﻿41.2644°N 96.0451°W,https://en.wikipedia.org/wiki/Omaha,61.8,40.3,51.05,30.63
+42,43,Long Beach,California,467354,462257,1.1,50.3,130.3,9347.0,3609.0,33°48′33″N 118°09′19″W﻿ / ﻿33.8092°N 118.1553°W,https://en.wikipedia.org/wiki/Long_Beach,74.2,55.4,64.8,12.25
+43,44,Virginia Beach,Virginia,450189,437994,2.78,244.7,633.8,1850.0,710.0,36°46′48″N 76°01′31″W﻿ / ﻿36.7800°N 76.0252°W,https://en.wikipedia.org/wiki/Virginia_Beach,68.9,52.3,60.6,-
+44,45,Oakland,California,429082,390724,9.82,55.9,144.8,7514.0,2901.0,37°46′11″N 122°13′33″W﻿ / ﻿37.7698°N 122.2257°W,https://en.wikipedia.org/wiki/Oakland,67.0,51.4,59.2,23.99
+45,46,Minneapolis,Minnesota,425403,382578,11.19,54.0,139.9,7660.0,2960.0,44°57′48″N 93°16′06″W﻿ / ﻿44.9633°N 93.2683°W,https://en.wikipedia.org/wiki/Minneapolis,55.1,37.2,46.15,30.64
+46,47,Tulsa,Oklahoma,400669,391906,2.24,196.8,509.7,2048.0,791.0,36°07′40″N 95°54′08″W﻿ / ﻿36.1279°N 95.9023°W,https://en.wikipedia.org/wiki/Tulsa,71.2,50.2,60.7,40.91
+47,48,Arlington,Texas,398112,365438,8.94,95.8,248.1,4100.0,1600.0,32°42′03″N 97°07′29″W﻿ / ﻿32.7007°N 97.1247°W,https://en.wikipedia.org/wiki/Arlington,77.1,55.1,66.1,38.36
+48,49,Tampa,Florida,392890,335709,17.03,113.4,293.7,3326.0,1284.0,27°58′12″N 82°28′47″W﻿ / ﻿27.9701°N 82.4797°W,https://en.wikipedia.org/wiki/Tampa,81.7,65.0,73.35,46.31
+49,50,New Orleans,Louisiana,391006,343829,13.72,169.4,438.7,2311.0,892.0,30°03′12″N 89°56′04″W﻿ / ﻿30.0534°N 89.9345°W,https://en.wikipedia.org/wiki/New_Orleans,77.1,62.3,69.7,63.5
+50,51,Wichita,Kansas,389255,382368,1.8,160.4,415.4,2431.0,939.0,37°41′27″N 97°20′45″W﻿ / ﻿37.6907°N 97.3459°W,https://en.wikipedia.org/wiki/Wichita,67.6,45.7,56.65,34.33
+51,52,Cleveland,Ohio,383793,396815,-3.28,77.7,201.2,4965.0,1917.0,41°28′43″N 81°40′46″W﻿ / ﻿41.4785°N 81.6794°W,https://en.wikipedia.org/wiki/Cleveland,59.6,43.1,51.35,39.12
+52,53,Bakersfield,California,383579,347483,10.39,148.8,385.4,2529.0,976.0,35°19′16″N 119°01′06″W﻿ / ﻿35.3212°N 119.0183°W,https://en.wikipedia.org/wiki/Bakersfield,76.8,53.4,65.1,6.45
+53,54,Aurora,Colorado,374114,325078,15.08,153.5,397.6,2356.0,910.0,39°41′17″N 104°41′23″W﻿ / ﻿39.6880°N 104.6897°W,https://en.wikipedia.org/wiki/Aurora,-,-,-,-
+54,55,Anaheim,California,352005,336265,4.68,50.0,129.5,7021.0,2711.0,33°51′20″N 117°45′36″W﻿ / ﻿33.8555°N 117.7601°W,https://en.wikipedia.org/wiki/Anaheim,78.4,55.7,67.05,13.4
+55,56,Honolulu,Hawaii,347397,337256,3.01,60.5,156.7,5815.0,2245.0,21°19′27″N 157°50′51″W﻿ / ﻿21.3243°N 157.8476°W,https://en.wikipedia.org/wiki/Honolulu,84.5,70.7,77.6,17.13
+56,57,Santa Ana,California,332725,324528,2.53,27.1,70.2,12333.0,4762.0,33°44′11″N 117°52′59″W﻿ / ﻿33.7363°N 117.8830°W,https://en.wikipedia.org/wiki/Santa_Ana,76.3,54.9,65.6,13.6
+57,58,Riverside,California,330063,303871,8.62,81.2,210.3,3999.0,1544.0,33°56′17″N 117°23′36″W﻿ / ﻿33.9381°N 117.3932°W,https://en.wikipedia.org/wiki/Riverside,79.5,51.4,65.45,10.32
+58,59,Corpus Christi,Texas,326554,305215,6.99,174.6,452.2,1866.0,720.0,27°45′15″N 97°10′24″W﻿ / ﻿27.7543°N 97.1734°W,https://en.wikipedia.org/wiki/Corpus_Christi,81.5,62.8,72.15,31.7
+59,60,Lexington,Kentucky,323780,295803,9.46,283.6,734.5,1123.0,434.0,38°02′27″N 84°27′30″W﻿ / ﻿38.0407°N 84.4583°W,https://en.wikipedia.org/wiki/Lexington,65.2,45.9,55.55,45.21
+60,61,Stockton,California,311178,291707,6.67,61.7,159.8,4977.0,1922.0,37°58′35″N 121°18′48″W﻿ / ﻿37.9763°N 121.3133°W,https://en.wikipedia.org/wiki/Stockton,75.7,48.3,62.0,17.85
+61,62,Henderson,Nevada,310390,257729,20.43,104.7,271.2,2798.0,1080.0,36°00′35″N 115°02′09″W﻿ / ﻿36.0097°N 115.0357°W,https://en.wikipedia.org/wiki/Henderson,77.4,48.2,62.8,6.92
+62,63,Saint Paul,Minnesota,307695,285068,7.94,52.0,134.7,5815.0,2245.0,44°56′56″N 93°06′15″W﻿ / ﻿44.9489°N 93.1041°W,https://en.wikipedia.org/wiki/Saint_Paul,56.6,37.5,47.05,32.04
+63,64,St. Louis,Missouri,302838,319294,-5.15,62.0,160.6,5023.0,1939.0,38°38′09″N 90°14′41″W﻿ / ﻿38.6357°N 90.2446°W,https://en.wikipedia.org/wiki/St._Louis,-,-,-,-
+64,65,Cincinnati,Ohio,302605,296943,1.91,77.4,200.5,3860.0,1490.0,39°08′25″N 84°30′21″W﻿ / ﻿39.1402°N 84.5058°W,https://en.wikipedia.org/wiki/Cincinnati,64.8,44.5,54.65,42.24
+65,66,Pittsburgh,Pennsylvania,301048,305704,-1.52,55.4,143.5,5481.0,2116.0,40°26′23″N 79°58′36″W﻿ / ﻿40.4398°N 79.9766°W,https://en.wikipedia.org/wiki/Pittsburgh,61.4,42.6,52.0,34.8
+66,67,Greensboro,North Carolina,294722,269666,9.29,128.3,332.3,2237.0,864.0,36°05′42″N 79°49′37″W﻿ / ﻿36.0951°N 79.8270°W,https://en.wikipedia.org/wiki/Greensboro,69.3,48.8,59.05,42.36
+67,68,Anchorage,Alaska,291538,291826,-0.1,1706.6,4420.1,175.0,68.0,61°10′27″N 149°17′03″W﻿ / ﻿61.1743°N 149.2843°W,https://en.wikipedia.org/wiki/Anchorage,43.7,30.3,37.0,16.57
+68,69,Plano,Texas,288061,259841,10.86,71.7,185.7,3990.0,1540.0,33°03′03″N 96°44′52″W﻿ / ﻿33.0508°N 96.7479°W,https://en.wikipedia.org/wiki/Plano,-,-,-,-
+69,70,Lincoln,Nebraska,287401,258379,11.23,92.1,238.5,3044.0,1175.0,40°48′38″N 96°40′49″W﻿ / ﻿40.8105°N 96.6803°W,https://en.wikipedia.org/wiki/Lincoln,63.1,39.9,51.5,28.94
+70,71,Orlando,Florida,285713,238300,19.9,105.2,272.5,2635.0,1017.0,28°25′00″N 81°16′25″W﻿ / ﻿28.4166°N 81.2736°W,https://en.wikipedia.org/wiki/Orlando,82.4,64.3,73.35,53.19
+71,72,Irvine,California,282572,212375,33.05,65.6,169.9,4057.0,1566.0,33°40′42″N 117°46′17″W﻿ / ﻿33.6784°N 117.7713°W,https://en.wikipedia.org/wiki/Irvine,72.7,54.3,63.5,14.42
+72,73,Newark,New Jersey,282090,277140,1.79,24.1,62.4,11691.0,4514.0,40°43′27″N 74°10′21″W﻿ / ﻿40.7242°N 74.1726°W,https://en.wikipedia.org/wiki/Newark,63.3,46.5,54.9,46.24
+73,74,Toledo,Ohio,274975,287208,-4.26,80.7,209.0,3451.0,1332.0,41°39′51″N 83°34′55″W﻿ / ﻿41.6641°N 83.5819°W,https://en.wikipedia.org/wiki/Toledo,61.5,45.3,53.4,33.55
+74,75,Durham,North Carolina,274291,228330,20.13,109.8,284.4,2395.0,925.0,35°58′52″N 78°54′10″W﻿ / ﻿35.9811°N 78.9029°W,https://en.wikipedia.org/wiki/Durham,70.2,47.8,59.0,48.1
+75,76,Chula Vista,California,271651,243916,11.37,49.6,128.5,5387.0,2080.0,32°37′40″N 117°00′55″W﻿ / ﻿32.6277°N 117.0152°W,https://en.wikipedia.org/wiki/Chula_Vista,71.9,55.2,63.55,9.81
+76,77,Fort Wayne,Indiana,267633,253691,5.5,110.6,286.5,2391.0,923.0,41°05′18″N 85°08′38″W﻿ / ﻿41.0882°N 85.1439°W,https://en.wikipedia.org/wiki/Fort_Wayne,60.1,40.6,50.35,38.26
+77,78,Jersey City,New Jersey,265549,247597,7.25,14.8,38.3,17848.0,6891.0,40°42′41″N 74°03′53″W﻿ / ﻿40.7114°N 74.0648°W,https://en.wikipedia.org/wiki/Jersey_City,60.2,45.1,52.65,46.42
+78,79,St. Petersburg,Florida,265098,244769,8.31,61.8,160.1,4223.0,1631.0,27°45′43″N 82°38′39″W﻿ / ﻿27.7620°N 82.6441°W,https://en.wikipedia.org/wiki/St._Petersburg,-,-,-,-
+79,80,Laredo,Texas,261639,236091,10.82,101.1,261.8,2544.0,982.0,27°33′37″N 99°29′21″W﻿ / ﻿27.5604°N 99.4892°W,https://en.wikipedia.org/wiki/Laredo,85.1,63.2,74.15,20.15
+80,81,Madison,Wisconsin,258054,233209,10.65,77.0,199.4,3280.0,1270.0,43°05′16″N 89°25′48″W﻿ / ﻿43.0878°N 89.4299°W,https://en.wikipedia.org/wiki/Madison,55.8,36.8,46.3,34.44
+81,82,Chandler,Arizona,257165,236123,8.91,64.9,168.1,3813.0,1472.0,33°16′58″N 111°51′18″W﻿ / ﻿33.2829°N 111.8549°W,https://en.wikipedia.org/wiki/Chandler,-,-,-,-
+82,83,Buffalo,New York,256304,261310,-1.92,40.4,104.6,6359.0,2455.0,42°53′33″N 78°51′35″W﻿ / ﻿42.8925°N 78.8597°W,https://en.wikipedia.org/wiki/Buffalo,56.3,40.2,48.25,40.47
+83,84,Lubbock,Texas,255885,229573,11.46,124.6,322.7,2027.0,783.0,33°33′56″N 101°53′12″W﻿ / ﻿33.5656°N 101.8867°W,https://en.wikipedia.org/wiki/Lubbock,74.3,47.0,60.65,19.18
+84,85,Scottsdale,Arizona,255310,217385,17.45,183.9,476.3,1341.0,518.0,33°41′03″N 111°51′40″W﻿ / ﻿33.6843°N 111.8611°W,https://en.wikipedia.org/wiki/Scottsdale,84.7,60.4,72.55,10.32
+85,86,Reno,Nevada,250998,225221,11.45,107.3,277.9,2286.0,883.0,39°32′57″N 119°51′00″W﻿ / ﻿39.5491°N 119.8499°W,https://en.wikipedia.org/wiki/Reno,67.6,40.1,53.85,7.39
+86,87,Glendale,Arizona,250702,226721,10.58,59.1,153.1,4161.0,1607.0,33°31′59″N 112°11′24″W﻿ / ﻿33.5331°N 112.1899°W,https://en.wikipedia.org/wiki/Glendale,-,-,-,-
+87,88,Gilbert,Arizona,248279,208453,19.11,68.0,176.1,3487.0,1346.0,33°18′37″N 111°44′35″W﻿ / ﻿33.3103°N 111.7431°W,https://en.wikipedia.org/wiki/Gilbert,-,-,-,-
+88,89,Winston–Salem,North Carolina,246328,229617,7.28,132.5,343.2,1828.0,706.0,36°06′10″N 80°15′40″W﻿ / ﻿36.1027°N 80.2610°W,https://en.wikipedia.org/wiki/Winston–Salem,-,-,-,-
+89,90,North Las Vegas,Nevada,245949,216961,13.36,98.0,253.8,2436.0,941.0,36°17′09″N 115°05′38″W﻿ / ﻿36.2857°N 115.0939°W,https://en.wikipedia.org/wiki/North_Las_Vegas,81.6,55.8,68.7,4.76
+90,91,Norfolk,Virginia,244076,242803,0.52,53.3,138.0,4599.0,1776.0,36°55′23″N 76°14′41″W﻿ / ﻿36.9230°N 76.2446°W,https://en.wikipedia.org/wiki/Norfolk,68.1,52.0,60.05,46.55
+91,92,Chesapeake,Virginia,242634,222209,9.19,338.5,876.7,703.0,271.0,36°40′46″N 76°18′06″W﻿ / ﻿36.6794°N 76.3018°W,https://en.wikipedia.org/wiki/Chesapeake,-,-,-,-
+92,93,Garland,Texas,242507,226876,6.89,57.0,147.6,4122.0,1592.0,32°54′35″N 96°37′49″W﻿ / ﻿32.9098°N 96.6303°W,https://en.wikipedia.org/wiki/Garland,-,-,-,-
+93,94,Irving,Texas,242242,216290,12.0,67.0,173.5,3557.0,1373.0,32°51′28″N 96°58′12″W﻿ / ﻿32.8577°N 96.9700°W,https://en.wikipedia.org/wiki/Irving,76.4,55.7,66.05,36.19
+94,95,Hialeah,Florida,238942,224669,6.35,21.5,55.7,10995.0,4245.0,25°52′12″N 80°18′10″W﻿ / ﻿25.8699°N 80.3029°W,https://en.wikipedia.org/wiki/Hialeah,82.4,69.5,75.95,70.44
+95,96,Fremont,California,237807,214089,11.08,77.5,200.7,3008.0,1161.0,37°29′40″N 121°56′28″W﻿ / ﻿37.4945°N 121.9412°W,https://en.wikipedia.org/wiki/Fremont,69.3,49.8,59.55,16.69
+96,97,Boise,Idaho,228790,205671,11.24,82.1,212.6,2718.0,1049.0,43°36′01″N 116°13′54″W﻿ / ﻿43.6002°N 116.2317°W,https://en.wikipedia.org/wiki/Boise,63.7,41.3,52.5,11.58
+97,98,Richmond,Virginia,228783,204214,12.03,59.8,154.9,3732.0,1441.0,37°31′53″N 77°28′34″W﻿ / ﻿37.5314°N 77.4760°W,https://en.wikipedia.org/wiki/Richmond,69.5,48.0,58.75,43.64
+98,99,Baton Rouge,Louisiana,221599,229493,-3.44,85.9,222.5,2651.0,1024.0,30°26′32″N 91°07′51″W﻿ / ﻿30.4422°N 91.1309°W,https://en.wikipedia.org/wiki/Baton_Rouge,78.9,57.8,68.35,60.6
+99,100,Spokane,Washington,219190,208916,4.92,68.7,177.9,3144.0,1214.0,47°40′01″N 117°26′00″W﻿ / ﻿47.6669°N 117.4333°W,https://en.wikipedia.org/wiki/Spokane,57.6,38.5,48.05,16.52
+100,101,Des Moines,Iowa,216853,203433,6.6,88.9,230.2,2424.0,936.0,41°34′21″N 93°36′37″W﻿ / ﻿41.5726°N 93.6102°W,https://en.wikipedia.org/wiki/Des_Moines,60.3,41.4,50.85,35.67
+101,102,Tacoma,Washington,216279,198397,9.01,49.7,128.7,4251.0,1641.0,47°15′08″N 122°27′35″W﻿ / ﻿47.2522°N 122.4598°W,https://en.wikipedia.org/wiki/Tacoma,61.5,45.3,53.4,39.25
+102,103,San Bernardino,California,215941,209924,2.87,61.5,159.3,3516.0,1358.0,34°08′30″N 117°17′37″W﻿ / ﻿34.1416°N 117.2936°W,https://en.wikipedia.org/wiki/San_Bernardino,80.1,51.7,65.9,16.37
+103,104,Modesto,California,215030,201165,6.89,43.0,111.4,4934.0,1905.0,37°38′15″N 121°00′11″W﻿ / ﻿37.6375°N 121.0030°W,https://en.wikipedia.org/wiki/Modesto,76.0,51.2,63.6,13.2
+104,105,Fontana,California,213739,196069,9.01,43.0,111.4,4876.0,1883.0,34°06′32″N 117°27′46″W﻿ / ﻿34.1090°N 117.4629°W,https://en.wikipedia.org/wiki/Fontana,-,-,-,-
+105,106,Santa Clarita,California,210089,176320,19.15,52.8,136.8,3446.0,1331.0,34°24′11″N 118°30′15″W﻿ / ﻿34.4030°N 118.5042°W,https://en.wikipedia.org/wiki/Santa_Clarita,-,-,-,-
+106,107,Birmingham,Alabama,209880,212237,-1.11,146.1,378.4,1452.0,561.0,33°31′39″N 86°47′56″W﻿ / ﻿33.5274°N 86.7990°W,https://en.wikipedia.org/wiki/Birmingham,73.8,52.8,63.3,53.71
+107,108,Oxnard,California,209877,197899,6.05,26.9,69.7,7729.0,2984.0,34°12′08″N 119°12′17″W﻿ / ﻿34.2023°N 119.2046°W,https://en.wikipedia.org/wiki/Oxnard,69.3,52.3,60.8,15.64
+108,109,Fayetteville,North Carolina,209468,200564,4.44,147.7,382.5,1386.0,535.0,35°04′58″N 78°58′25″W﻿ / ﻿35.0828°N 78.9735°W,https://en.wikipedia.org/wiki/Fayetteville,72.5,49.8,61.15,45.34
+109,110,Moreno Valley,California,209050,193365,8.11,51.3,132.9,4006.0,1547.0,33°55′24″N 117°12′21″W﻿ / ﻿33.9233°N 117.2057°W,https://en.wikipedia.org/wiki/Moreno_Valley,-,-,-,-
+110,111,Rochester,New York,206284,210565,-2.03,35.8,92.7,5835.0,2253.0,43°10′12″N 77°37′01″W﻿ / ﻿43.1699°N 77.6169°W,https://en.wikipedia.org/wiki/Rochester,57.3,39.5,48.4,34.34
+111,112,Glendale,California,201361,191719,5.03,30.4,78.7,6606.0,2551.0,34°10′53″N 118°14′45″W﻿ / ﻿34.1814°N 118.2458°W,https://en.wikipedia.org/wiki/Glendale,-,-,-,-
+112,113,Huntington Beach,California,200641,189992,5.6,26.9,69.7,7459.0,2880.0,33°41′26″N 118°00′33″W﻿ / ﻿33.6906°N 118.0093°W,https://en.wikipedia.org/wiki/Huntington_Beach,-,-,-,-
+113,114,Salt Lake City,Utah,200591,186440,7.59,111.2,288.0,1742.0,673.0,40°46′37″N 111°55′52″W﻿ / ﻿40.7769°N 111.9310°W,https://en.wikipedia.org/wiki/Salt_Lake_City,63.4,46.2,54.8,18.58
+114,115,Grand Rapids,Michigan,200217,188040,6.48,44.4,115.0,4424.0,1708.0,42°57′40″N 85°39′20″W﻿ / ﻿42.9612°N 85.6556°W,https://en.wikipedia.org/wiki/Grand_Rapids,57.8,40.3,49.05,38.27
+115,116,Amarillo,Texas,199924,190695,4.84,101.4,262.6,1968.0,760.0,35°12′00″N 101°49′49″W﻿ / ﻿35.1999°N 101.8302°W,https://en.wikipedia.org/wiki/Amarillo,70.9,43.7,57.3,20.31
+116,117,Yonkers,New York,199663,195976,1.88,18.0,46.6,11156.0,4307.0,40°56′45″N 73°52′03″W﻿ / ﻿40.9459°N 73.8674°W,https://en.wikipedia.org/wiki/Yonkers,-,-,-,-
+117,118,Aurora,Illinois,199602,197899,0.86,44.9,116.3,4479.0,1729.0,41°45′49″N 88°17′24″W﻿ / ﻿41.7635°N 88.2901°W,https://en.wikipedia.org/wiki/Aurora,59.0,41.3,50.15,37.67
+118,119,Montgomery,Alabama,198218,205764,-3.67,159.8,413.9,1252.0,483.0,32°20′50″N 86°15′58″W﻿ / ﻿32.3472°N 86.2661°W,https://en.wikipedia.org/wiki/Montgomery,76.5,53.5,65.0,53.05
+119,120,Akron,Ohio,198006,199110,-0.55,62.0,160.6,3188.0,1231.0,41°04′50″N 81°31′17″W﻿ / ﻿41.0805°N 81.5214°W,https://en.wikipedia.org/wiki/Akron,60.2,42.9,51.55,36.06
+120,121,Little Rock,Arkansas,197881,193524,2.25,118.7,307.4,1673.0,646.0,34°43′31″N 92°21′31″W﻿ / ﻿34.7254°N 92.3586°W,https://en.wikipedia.org/wiki/Little_Rock,72.8,52.5,62.65,49.57
+121,122,Huntsville,Alabama,197318,180105,9.56,213.4,552.7,905.0,349.0,34°41′56″N 86°40′23″W﻿ / ﻿34.6990°N 86.6730°W,https://en.wikipedia.org/wiki/Huntsville,72.8,51.1,61.95,54.33
+122,123,Augusta,Georgia,196939,195844,0.56,302.5,783.5,652.0,252.0,33°21′56″N 82°04′24″W﻿ / ﻿33.3655°N 82.0734°W,https://en.wikipedia.org/wiki/Augusta,76.8,50.9,63.85,43.58
+123,124,Port St. Lucie,Florida,195248,164603,18.62,118.9,307.9,1557.0,601.0,27°16′50″N 80°23′18″W﻿ / ﻿27.2806°N 80.3883°W,https://en.wikipedia.org/wiki/Port_St._Lucie,-,-,-,-
+124,125,Grand Prairie,Texas,194614,175396,10.96,72.3,187.3,2637.0,1018.0,32°41′13″N 97°01′16″W﻿ / ﻿32.6869°N 97.0211°W,https://en.wikipedia.org/wiki/Grand_Prairie,76.7,56.7,66.7,37.36
+125,126,Columbus,Georgia,194160,189885,2.25,216.4,560.5,913.0,353.0,32°30′37″N 84°52′30″W﻿ / ﻿32.5102°N 84.8749°W,https://en.wikipedia.org/wiki/Columbus,76.1,55.1,65.6,46.76
+126,127,Tallahassee,Florida,193551,181376,6.71,100.4,260.0,1901.0,734.0,30°27′18″N 84°15′12″W﻿ / ﻿30.4551°N 84.2534°W,https://en.wikipedia.org/wiki/Tallahassee,79.5,55.7,67.6,59.21
+127,128,Overland Park,Kansas,192536,173372,11.05,75.1,194.5,2516.0,971.0,38°53′20″N 94°41′26″W﻿ / ﻿38.8890°N 94.6906°W,https://en.wikipedia.org/wiki/Overland_Park,-,-,-,-
+128,129,Tempe,Arizona,192364,161719,18.95,40.0,103.6,4562.0,1761.0,33°23′18″N 111°55′54″W﻿ / ﻿33.3884°N 111.9318°W,https://en.wikipedia.org/wiki/Tempe,87.3,55.3,71.3,9.33
+129,130,McKinney,Texas,191645,131117,46.16,63.0,163.2,2735.0,1056.0,33°11′55″N 96°40′05″W﻿ / ﻿33.1985°N 96.6680°W,https://en.wikipedia.org/wiki/McKinney,-,-,-,-
+130,131,Mobile,Alabama,189572,195111,-2.84,139.4,361.0,1384.0,534.0,30°40′06″N 88°06′01″W﻿ / ﻿30.6684°N 88.1002°W,https://en.wikipedia.org/wiki/Mobile,77.5,57.0,67.25,66.22
+131,132,Cape Coral,Florida,189343,154305,22.71,105.6,273.5,1703.0,658.0,26°38′36″N 81°59′51″W﻿ / ﻿26.6432°N 81.9974°W,https://en.wikipedia.org/wiki/Cape_Coral,-,-,-,-
+132,133,Shreveport,Louisiana,188987,199311,-5.18,107.1,277.4,1820.0,700.0,32°28′01″N 93°47′32″W﻿ / ﻿32.4669°N 93.7922°W,https://en.wikipedia.org/wiki/Shreveport,76.4,54.8,65.6,51.36
+133,134,Frisco,Texas,188170,116989,60.84,67.7,175.3,2417.0,933.0,33°09′19″N 96°49′21″W﻿ / ﻿33.1554°N 96.8226°W,https://en.wikipedia.org/wiki/Frisco,-,-,-,-
+134,135,Knoxville,Tennessee,187500,178874,4.82,98.5,255.1,1891.0,730.0,35°58′15″N 83°56′57″W﻿ / ﻿35.9707°N 83.9493°W,https://en.wikipedia.org/wiki/Knoxville,69.3,49.7,59.5,48.18
+135,136,Worcester,Massachusetts,185877,181045,2.67,37.4,96.9,4933.0,1905.0,42°16′10″N 71°48′28″W﻿ / ﻿42.2695°N 71.8078°W,https://en.wikipedia.org/wiki/Worcester,56.0,39.6,47.8,48.02
+136,137,Brownsville,Texas,183392,175023,4.78,132.5,343.2,1387.0,536.0,25°59′57″N 97°27′18″W﻿ / ﻿25.9991°N 97.4550°W,https://en.wikipedia.org/wiki/Brownsville,83.7,65.5,74.6,27.37
+137,138,Vancouver,Washington,183012,161791,13.12,46.9,121.5,3728.0,1439.0,45°38′06″N 122°35′45″W﻿ / ﻿45.6349°N 122.5957°W,https://en.wikipedia.org/wiki/Vancouver,62.1,41.8,51.95,41.67
+138,139,Fort Lauderdale,Florida,182595,165521,10.32,34.6,89.6,5166.0,1995.0,26°08′28″N 80°08′48″W﻿ / ﻿26.1412°N 80.1467°W,https://en.wikipedia.org/wiki/Fort_Lauderdale,83.3,67.8,75.55,66.49
+139,140,Sioux Falls,South Dakota,181883,153888,18.19,75.4,195.3,2312.0,893.0,43°32′18″N 96°43′55″W﻿ / ﻿43.5383°N 96.7320°W,https://en.wikipedia.org/wiki/Sioux_Falls,56.4,34.8,45.6,26.35
+140,141,Ontario,California,181107,163924,10.48,49.9,129.2,3471.0,1340.0,34°02′22″N 117°36′15″W﻿ / ﻿34.0394°N 117.6042°W,https://en.wikipedia.org/wiki/Ontario,77.8,53.2,65.5,15.04
+141,142,Chattanooga,Tennessee,180557,167674,7.68,143.1,370.6,1241.0,479.0,35°03′58″N 85°14′54″W﻿ / ﻿35.0660°N 85.2484°W,https://en.wikipedia.org/wiki/Chattanooga,71.6,50.1,60.85,52.44
+142,143,Providence,Rhode Island,179335,178042,0.73,18.4,47.7,9740.0,3760.0,41°49′23″N 71°25′08″W﻿ / ﻿41.8231°N 71.4188°W,https://en.wikipedia.org/wiki/Providence,60.5,42.5,51.5,47.21
+143,144,Newport News,Virginia,178626,180719,-1.16,69.1,179.0,2631.0,1016.0,37°04′34″N 76°31′19″W﻿ / ﻿37.0762°N 76.5220°W,https://en.wikipedia.org/wiki/Newport_News,70.5,50.7,60.6,45.47
+144,145,Rancho Cucamonga,California,177751,165269,7.55,40.0,103.6,4413.0,1704.0,34°07′24″N 117°33′51″W﻿ / ﻿34.1233°N 117.5642°W,https://en.wikipedia.org/wiki/Rancho_Cucamonga,-,-,-,-
+145,146,Santa Rosa,California,177586,167815,5.82,41.3,107.0,4241.0,1637.0,38°26′48″N 122°42′22″W﻿ / ﻿38.4468°N 122.7061°W,https://en.wikipedia.org/wiki/Santa_Rosa,71.3,46.9,59.1,30.98
+146,147,Oceanside,California,176080,167086,5.38,41.3,107.0,4249.0,1641.0,33°13′28″N 117°18′22″W﻿ / ﻿33.2245°N 117.3062°W,https://en.wikipedia.org/wiki/Oceanside,66.0,53.9,59.95,10.28
+147,148,Salem,Oregon,173442,154637,12.16,48.6,125.9,3445.0,1330.0,44°55′25″N 123°01′24″W﻿ / ﻿44.9237°N 123.0232°W,https://en.wikipedia.org/wiki/Salem,63.6,42.4,53.0,39.61
+148,149,Elk Grove,California,172886,153015,12.99,42.2,109.3,4022.0,1553.0,38°24′53″N 121°23′06″W﻿ / ﻿38.4146°N 121.3850°W,https://en.wikipedia.org/wiki/Elk_Grove,-,-,-,-
+149,150,Garden Grove,California,172646,170883,1.03,18.0,46.6,9714.0,3751.0,33°46′44″N 117°57′38″W﻿ / ﻿33.7788°N 117.9605°W,https://en.wikipedia.org/wiki/Garden_Grove,-,-,-,-
+150,151,Pembroke Pines,Florida,172374,154019,11.92,33.0,85.5,5109.0,1973.0,26°01′16″N 80°20′25″W﻿ / ﻿26.0210°N 80.3404°W,https://en.wikipedia.org/wiki/Pembroke_Pines,-,-,-,-
+151,152,Peoria,Arizona,172259,154065,11.81,175.7,455.1,934.0,361.0,33°47′10″N 112°18′29″W﻿ / ﻿33.7862°N 112.3080°W,https://en.wikipedia.org/wiki/Peoria,-,-,-,-
+152,153,Eugene,Oregon,171245,156185,9.64,44.1,114.2,3777.0,1458.0,44°03′24″N 123°06′58″W﻿ / ﻿44.0567°N 123.1162°W,https://en.wikipedia.org/wiki/Eugene,63.3,41.7,52.5,46.15
+153,154,Corona,California,168819,152374,10.79,39.5,102.3,4222.0,1630.0,33°51′43″N 117°33′56″W﻿ / ﻿33.8620°N 117.5655°W,https://en.wikipedia.org/wiki/Corona,79.4,50.2,64.8,12.01
+154,155,Cary,North Carolina,168160,135234,24.35,56.5,146.3,2873.0,1109.0,35°46′51″N 78°48′48″W﻿ / ﻿35.7809°N 78.8133°W,https://en.wikipedia.org/wiki/Cary,71.6,50.0,60.8,43.29
+155,156,Springfield,Missouri,168122,159498,5.41,82.3,213.2,2033.0,785.0,37°11′39″N 93°17′29″W﻿ / ﻿37.1942°N 93.2913°W,https://en.wikipedia.org/wiki/Springfield,67.0,45.3,56.15,45.54
+156,157,Fort Collins,Colorado,167830,143986,16.56,55.8,144.5,2943.0,1136.0,40°32′54″N 105°03′53″W﻿ / ﻿40.5482°N 105.0648°W,https://en.wikipedia.org/wiki/Fort_Collins,63.7,36.8,50.25,16.05
+157,158,Jackson,Mississippi,164422,173514,-5.24,111.0,287.5,1524.0,588.0,32°18′57″N 90°12′46″W﻿ / ﻿32.3158°N 90.2128°W,https://en.wikipedia.org/wiki/Jackson,75.5,53.6,64.55,54.16
+158,159,Alexandria,Virginia,160530,139966,14.69,15.0,38.8,10387.0,4010.0,38°49′12″N 77°05′03″W﻿ / ﻿38.8201°N 77.0841°W,https://en.wikipedia.org/wiki/Alexandria,-,-,-,-
+159,160,Hayward,California,159620,144186,10.7,45.5,117.8,3493.0,1349.0,37°37′43″N 122°06′09″W﻿ / ﻿37.6287°N 122.1024°W,https://en.wikipedia.org/wiki/Hayward,67.1,50.6,58.85,17.99
+160,161,Lancaster,California,159053,156633,1.55,94.3,244.2,1698.0,656.0,34°41′37″N 118°10′31″W﻿ / ﻿34.6936°N 118.1753°W,https://en.wikipedia.org/wiki/Lancaster,77.1,47.1,62.1,7.36
+161,162,Lakewood,Colorado,156798,142980,9.66,42.9,111.1,3599.0,1390.0,39°41′56″N 105°07′03″W﻿ / ﻿39.6989°N 105.1176°W,https://en.wikipedia.org/wiki/Lakewood,-,-,-,-
+162,163,Clarksville,Tennessee,156794,132929,17.95,98.3,254.6,1529.0,590.0,36°33′59″N 87°20′43″W﻿ / ﻿36.5664°N 87.3452°W,https://en.wikipedia.org/wiki/Clarksville,70.2,48.0,59.1,50.98
+163,164,Palmdale,California,156667,152750,2.56,106.0,274.5,1484.0,573.0,34°35′28″N 118°06′19″W﻿ / ﻿34.5910°N 118.1054°W,https://en.wikipedia.org/wiki/Palmdale,78.3,48.6,63.45,7.4
+164,165,Salinas,California,156259,150441,3.87,23.6,61.1,6662.0,2572.0,36°41′25″N 121°38′01″W﻿ / ﻿36.6902°N 121.6337°W,https://en.wikipedia.org/wiki/Salinas,68.0,46.6,57.3,15.47
+165,166,Springfield,Massachusetts,155032,153060,1.29,31.9,82.6,4830.0,1860.0,42°06′56″N 72°32′24″W﻿ / ﻿42.1155°N 72.5400°W,https://en.wikipedia.org/wiki/Springfield,-,-,-,-
+166,167,Hollywood,Florida,154823,140768,9.98,27.3,70.7,5568.0,2150.0,26°01′52″N 80°09′53″W﻿ / ﻿26.0310°N 80.1646°W,https://en.wikipedia.org/wiki/Hollywood,82.9,68.6,75.75,64.37
+167,168,Pasadena,Texas,153219,149043,2.8,43.5,112.7,3525.0,1361.0,29°39′31″N 95°09′02″W﻿ / ﻿29.6586°N 95.1506°W,https://en.wikipedia.org/wiki/Pasadena,-,-,-,-
+168,169,Sunnyvale,California,153185,140081,9.35,22.0,57.0,6944.0,2681.0,37°23′09″N 122°01′35″W﻿ / ﻿37.3858°N 122.0263°W,https://en.wikipedia.org/wiki/Sunnyvale,-,-,-,-
+169,170,Macon,Georgia,153095,91351,67.59,249.3,645.7,612.0,236.0,32°48′32″N 83°41′39″W﻿ / ﻿32.8088°N 83.6942°W,https://en.wikipedia.org/wiki/Macon,76.4,52.5,64.45,45.72
+170,171,Kansas City,Kansas,152958,145786,4.92,124.8,323.2,1216.0,470.0,39°07′21″N 94°44′30″W﻿ / ﻿39.1225°N 94.7418°W,https://en.wikipedia.org/wiki/Kansas_City,64.3,42.5,53.4,34.14
+171,172,Pomona,California,152361,149058,2.22,23.0,59.6,6630.0,2560.0,34°03′31″N 117°45′40″W﻿ / ﻿34.0585°N 117.7611°W,https://en.wikipedia.org/wiki/Pomona,77.1,49.9,63.5,16.99
+172,173,Escondido,California,152213,143911,5.77,37.1,96.1,4087.0,1578.0,33°07′59″N 117°04′26″W﻿ / ﻿33.1331°N 117.0740°W,https://en.wikipedia.org/wiki/Escondido,77.5,52.6,65.05,14.98
+173,174,Killeen,Texas,149103,127921,16.56,53.5,138.6,2680.0,1030.0,31°04′40″N 97°43′55″W﻿ / ﻿31.0777°N 97.7320°W,https://en.wikipedia.org/wiki/Killeen,77.7,53.8,65.75,32.83
+174,175,Naperville,Illinois,148304,141853,4.55,38.7,100.2,3802.0,1468.0,41°44′57″N 88°09′43″W﻿ / ﻿41.7492°N 88.1620°W,https://en.wikipedia.org/wiki/Naperville,-,-,-,-
+175,176,Joliet,Illinois,148099,147433,0.45,64.4,166.8,2302.0,889.0,41°31′04″N 88°08′56″W﻿ / ﻿41.5177°N 88.1488°W,https://en.wikipedia.org/wiki/Joliet,59.8,41.1,50.45,36.82
+176,177,Bellevue,Washington,147599,122363,20.62,33.5,86.8,4221.0,1630.0,47°35′52″N 122°09′23″W﻿ / ﻿47.5979°N 122.1565°W,https://en.wikipedia.org/wiki/Bellevue,-,-,-,-
+177,178,Rockford,Illinois,146526,152871,-4.15,63.5,164.5,2325.0,898.0,42°15′32″N 89°03′53″W﻿ / ﻿42.2588°N 89.0646°W,https://en.wikipedia.org/wiki/Rockford,59.2,39.0,49.1,36.29
+178,179,Savannah,Georgia,145862,136286,7.03,103.6,268.3,1417.0,547.0,32°00′09″N 81°09′13″W﻿ / ﻿32.0025°N 81.1536°W,https://en.wikipedia.org/wiki/Savannah,77.3,56.3,66.8,47.98
+179,180,Paterson,New Jersey,145627,146199,-0.39,8.4,21.8,17500.0,6800.0,40°54′53″N 74°09′46″W﻿ / ﻿40.9148°N 74.1628°W,https://en.wikipedia.org/wiki/Paterson,-,-,-,-
+180,181,Torrance,California,145182,145438,-0.18,20.5,53.1,7180.0,2770.0,33°50′06″N 118°20′29″W﻿ / ﻿33.8350°N 118.3414°W,https://en.wikipedia.org/wiki/Torrance,71.4,53.6,62.5,14.46
+181,182,Bridgeport,Connecticut,144900,144229,0.47,16.1,41.7,9064.0,3500.0,41°11′15″N 73°11′45″W﻿ / ﻿41.1874°N 73.1958°W,https://en.wikipedia.org/wiki/Bridgeport,60.2,44.5,52.35,42.8
+182,183,McAllen,Texas,143433,129877,10.44,58.4,151.3,2435.0,940.0,26°13′56″N 98°14′47″W﻿ / ﻿26.2322°N 98.2464°W,https://en.wikipedia.org/wiki/McAllen,85.9,65.3,75.6,22.24
+183,184,Mesquite,Texas,142816,139824,2.14,47.2,122.2,3045.0,1176.0,32°45′46″N 96°35′20″W﻿ / ﻿32.7629°N 96.5888°W,https://en.wikipedia.org/wiki/Mesquite,-,-,-,-
+184,185,Syracuse,New York,142749,145170,-1.67,25.0,64.7,5735.0,2214.0,43°02′28″N 76°08′37″W﻿ / ﻿43.0410°N 76.1436°W,https://en.wikipedia.org/wiki/Syracuse,57.8,40.1,48.95,41.54
+185,186,Midland,Texas,142344,111147,28.07,74.4,192.7,1809.0,698.0,32°01′29″N 102°06′49″W﻿ / ﻿32.0246°N 102.1135°W,https://en.wikipedia.org/wiki/Midland,80.0,50.9,65.45,14.9
+186,187,Pasadena,California,141371,137122,3.1,23.0,59.6,6176.0,2385.0,34°09′38″N 118°08′23″W﻿ / ﻿34.1606°N 118.1396°W,https://en.wikipedia.org/wiki/Pasadena,78.4,55.4,66.9,21.27
+187,188,Murfreesboro,Tennessee,141344,108755,29.97,55.9,144.8,2360.0,910.0,35°51′08″N 86°24′58″W﻿ / ﻿35.8522°N 86.4160°W,https://en.wikipedia.org/wiki/Murfreesboro,70.8,45.6,58.2,53.42
+188,189,Miramar,Florida,140823,122041,15.39,29.4,76.1,4709.0,1818.0,25°58′37″N 80°20′09″W﻿ / ﻿25.9770°N 80.3358°W,https://en.wikipedia.org/wiki/Miramar,-,-,-,-
+189,190,Dayton,Ohio,140640,141527,-0.63,55.7,144.3,2522.0,974.0,39°46′39″N 84°11′59″W﻿ / ﻿39.7774°N 84.1996°W,https://en.wikipedia.org/wiki/Dayton,61.1,42.8,51.95,41.09
+190,191,Fullerton,California,139640,135161,3.31,22.4,58.0,6282.0,2425.0,33°53′09″N 117°55′41″W﻿ / ﻿33.8857°N 117.9280°W,https://en.wikipedia.org/wiki/Fullerton,75.1,54.9,65.0,13.88
+191,192,Olathe,Kansas,139605,125872,10.91,60.9,157.7,2225.0,859.0,38°53′03″N 94°49′10″W﻿ / ﻿38.8843°N 94.8195°W,https://en.wikipedia.org/wiki/Olathe,65.7,45.3,55.5,40.12
+192,193,Orange,California,139484,136416,2.25,25.4,65.8,5532.0,2136.0,33°47′13″N 117°51′41″W﻿ / ﻿33.7870°N 117.8613°W,https://en.wikipedia.org/wiki/Orange,-,-,-,-
+193,194,Thornton,Colorado,139436,118772,17.4,35.7,92.5,3829.0,1478.0,39°55′10″N 104°56′34″W﻿ / ﻿39.9194°N 104.9428°W,https://en.wikipedia.org/wiki/Thornton,-,-,-,-
+194,195,Roseville,California,139117,118788,17.11,43.0,111.4,3085.0,1191.0,38°46′08″N 121°19′08″W﻿ / ﻿38.7690°N 121.3189°W,https://en.wikipedia.org/wiki/Roseville,-,-,-,-
+195,196,Denton,Texas,138541,113383,22.19,93.4,241.9,1433.0,553.0,33°13′00″N 97°08′29″W﻿ / ﻿33.2166°N 97.1414°W,https://en.wikipedia.org/wiki/Denton,76.0,53.7,64.85,38.08
+196,197,Waco,Texas,138183,124805,10.72,89.0,230.5,1510.0,580.0,31°33′36″N 97°11′10″W﻿ / ﻿31.5601°N 97.1860°W,https://en.wikipedia.org/wiki/Waco,77.7,55.3,66.5,36.38
+197,198,Surprise,Arizona,138161,117517,17.57,107.9,279.5,1230.0,470.0,33°40′14″N 112°27′10″W﻿ / ﻿33.6706°N 112.4527°W,https://en.wikipedia.org/wiki/Surprise,-,-,-,-
+198,199,Carrollton,Texas,136879,119097,14.93,36.3,94.0,3674.0,1419.0,32°59′18″N 96°53′59″W﻿ / ﻿32.9884°N 96.8998°W,https://en.wikipedia.org/wiki/Carrollton,-,-,-,-
+199,200,West Valley City,Utah,136401,129480,5.35,35.5,91.9,3847.0,1485.0,40°41′19″N 112°00′42″W﻿ / ﻿40.6885°N 112.0118°W,https://en.wikipedia.org/wiki/West_Valley_City,-,-,-,-
+200,201,Charleston,South Carolina,136208,120083,13.43,109.0,282.3,1233.0,476.0,32°49′04″N 79°57′32″W﻿ / ﻿32.8179°N 79.9590°W,https://en.wikipedia.org/wiki/Charleston,-,-,-,-
+201,202,Warren,Michigan,134587,134056,0.4,34.4,89.1,3928.0,1517.0,42°29′34″N 83°01′30″W﻿ / ﻿42.4929°N 83.0250°W,https://en.wikipedia.org/wiki/Warren,-,-,-,-
+202,203,Hampton,Virginia,134313,137436,-2.27,51.5,133.4,2629.0,1015.0,37°02′53″N 76°17′50″W﻿ / ﻿37.0480°N 76.2971°W,https://en.wikipedia.org/wiki/Hampton,70.4,53.4,61.9,-
+203,204,Gainesville,Florida,133857,124354,7.64,62.3,161.4,2112.0,815.0,29°40′44″N 82°20′46″W﻿ / ﻿29.6788°N 82.3461°W,https://en.wikipedia.org/wiki/Gainesville,79.9,57.5,68.7,47.37
+204,205,Visalia,California,133800,124442,7.52,37.5,97.1,3495.0,1349.0,36°19′38″N 119°19′44″W﻿ / ﻿36.3273°N 119.3289°W,https://en.wikipedia.org/wiki/Visalia,74.9,51.8,63.35,10.94
+205,206,Coral Springs,Florida,133507,121096,10.25,23.8,61.6,5465.0,2110.0,26°16′15″N 80°15′33″W﻿ / ﻿26.2707°N 80.2593°W,https://en.wikipedia.org/wiki/Coral_Springs,-,-,-,-
+206,207,Columbia,South Carolina,133451,129272,3.23,133.5,345.8,1006.0,388.0,34°01′45″N 80°53′53″W﻿ / ﻿34.0291°N 80.8980°W,https://en.wikipedia.org/wiki/Columbia,75.3,52.3,63.8,44.29
+207,208,Cedar Rapids,Iowa,133174,126326,5.42,70.8,183.4,1852.0,715.0,41°58′01″N 91°40′40″W﻿ / ﻿41.9670°N 91.6778°W,https://en.wikipedia.org/wiki/Cedar_Rapids,60.5,39.8,50.15,37.63
+208,209,Sterling Heights,Michigan,132964,129699,2.52,36.5,94.5,3628.0,1401.0,42°34′52″N 83°01′49″W﻿ / ﻿42.5812°N 83.0303°W,https://en.wikipedia.org/wiki/Sterling_Heights,-,-,-,-
+209,210,New Haven,Connecticut,130418,129779,0.49,18.7,48.4,6948.0,2683.0,41°18′39″N 72°55′30″W﻿ / ﻿41.3108°N 72.9250°W,https://en.wikipedia.org/wiki/New_Haven,-,-,-,-
+210,211,Stamford,Connecticut,129775,122643,5.82,37.6,97.4,3434.0,1326.0,41°04′48″N 73°32′46″W﻿ / ﻿41.0799°N 73.5460°W,https://en.wikipedia.org/wiki/Stamford,63.1,41.1,52.1,53.15
+211,212,Concord,California,129688,122067,6.24,30.5,79.0,4221.0,1630.0,37°58′20″N 122°00′06″W﻿ / ﻿37.9722°N 122.0016°W,https://en.wikipedia.org/wiki/Concord,72.3,49.2,60.75,16.47
+212,213,Kent,Washington,129618,92411,40.26,33.7,87.3,3784.0,1461.0,47°23′17″N 122°12′46″W﻿ / ﻿47.3880°N 122.2127°W,https://en.wikipedia.org/wiki/Kent,61.8,44.7,53.25,39.13
+213,214,Santa Clara,California,129488,116468,11.18,18.4,47.7,6845.0,2643.0,37°21′53″N 121°58′04″W﻿ / ﻿37.3646°N 121.9679°W,https://en.wikipedia.org/wiki/Santa_Clara,-,-,-,-
+214,215,Elizabeth,New Jersey,128885,124969,3.13,12.3,31.9,10459.0,4038.0,40°39′59″N 74°11′37″W﻿ / ﻿40.6664°N 74.1935°W,https://en.wikipedia.org/wiki/Elizabeth,63.3,46.5,54.9,46.24
+215,216,Round Rock,Texas,128739,99887,28.88,35.6,92.2,3396.0,1311.0,30°31′31″N 97°39′58″W﻿ / ﻿30.5252°N 97.6660°W,https://en.wikipedia.org/wiki/Round_Rock,-,-,-,-
+216,217,Thousand Oaks,California,127690,126683,0.79,55.2,143.0,2335.0,902.0,34°11′36″N 118°52′27″W﻿ / ﻿34.1933°N 118.8742°W,https://en.wikipedia.org/wiki/Thousand_Oaks,74.3,51.0,62.65,16.62
+217,218,Lafayette,Louisiana,126143,120623,4.58,53.8,139.3,2372.0,916.0,30°12′27″N 92°01′43″W﻿ / ﻿30.2074°N 92.0285°W,https://en.wikipedia.org/wiki/Lafayette,78.8,59.6,69.2,60.48
+218,219,Athens,Georgia,125964,115452,9.11,116.4,301.5,1060.0,410.0,33°56′59″N 83°22′12″W﻿ / ﻿33.9496°N 83.3701°W,https://en.wikipedia.org/wiki/Athens,73.6,51.2,62.4,46.38
+219,220,Topeka,Kansas,125904,127473,-1.23,61.5,159.3,2062.0,796.0,39°02′05″N 95°41′46″W﻿ / ﻿39.0347°N 95.6962°W,https://en.wikipedia.org/wiki/Topeka,66.0,44.1,55.05,36.49
+220,221,Simi Valley,California,125851,124237,1.3,41.5,107.5,3044.0,1175.0,34°16′01″N 118°44′55″W﻿ / ﻿34.2669°N 118.7485°W,https://en.wikipedia.org/wiki/Simi_Valley,-,-,-,-
+221,222,Fargo,North Dakota,124844,105549,18.28,49.3,127.7,2450.0,950.0,46°51′55″N 96°49′44″W﻿ / ﻿46.8652°N 96.8290°W,https://en.wikipedia.org/wiki/Fargo,52.5,31.9,42.2,22.58
+222,223,Norman,Oklahoma,123471,110925,11.31,178.8,463.1,683.0,264.0,35°14′26″N 97°20′43″W﻿ / ﻿35.2406°N 97.3453°W,https://en.wikipedia.org/wiki/Norman,71.1,49.0,60.05,38.87
+223,224,Columbia,Missouri,123180,108500,13.53,65.0,168.3,1856.0,717.0,38°57′06″N 92°19′43″W﻿ / ﻿38.951561°N 92.328638°W,https://en.wikipedia.org/wiki/Columbia,64.7,44.3,54.5,42.64
+224,225,Abilene,Texas,122999,117063,5.07,106.7,276.4,1146.0,442.0,32°27′16″N 99°44′17″W﻿ / ﻿32.4545°N 99.7381°W,https://en.wikipedia.org/wiki/Abilene,76.2,52.9,64.55,24.83
+225,226,Wilmington,North Carolina,122607,106476,15.15,51.6,133.6,2278.0,880.0,34°12′33″N 77°53′09″W﻿ / ﻿34.2092°N 77.8858°W,https://en.wikipedia.org/wiki/Wilmington,74.1,53.9,64.0,57.67
+226,227,Hartford,Connecticut,122587,124775,-1.75,17.4,45.1,7083.0,2735.0,41°45′57″N 72°40′54″W﻿ / ﻿41.7659°N 72.6816°W,https://en.wikipedia.org/wiki/Hartford,60.1,39.5,49.8,44.23
+227,228,Victorville,California,122312,115903,5.53,73.3,189.8,1668.0,644.0,34°31′40″N 117°21′13″W﻿ / ﻿34.5277°N 117.3536°W,https://en.wikipedia.org/wiki/Victorville,78.9,45.7,62.3,6.18
+228,229,Pearland,Texas,122149,91252,33.86,46.3,119.9,2453.0,947.0,29°33′21″N 95°19′23″W﻿ / ﻿29.5558°N 95.3231°W,https://en.wikipedia.org/wiki/Pearland,78.5,60.5,69.5,52.66
+229,230,Vallejo,California,121913,115942,5.15,30.7,79.5,3951.0,1525.0,38°06′28″N 122°15′50″W﻿ / ﻿38.1079°N 122.2640°W,https://en.wikipedia.org/wiki/Vallejo,-,-,-,-
+230,231,Ann Arbor,Michigan,121890,113934,6.98,28.1,72.8,4298.0,1659.0,42°16′34″N 83°43′51″W﻿ / ﻿42.2761°N 83.7309°W,https://en.wikipedia.org/wiki/Ann_Arbor,58.8,40.3,49.55,37.55
+231,232,Berkeley,California,121643,112580,8.05,10.5,27.2,11547.0,4458.0,37°52′01″N 122°17′57″W﻿ / ﻿37.8670°N 122.2991°W,https://en.wikipedia.org/wiki/Berkeley,67.8,48.4,58.1,26.75
+232,233,Allentown,Pennsylvania,121433,118032,2.88,17.5,45.3,6882.0,2657.0,40°35′37″N 75°28′42″W﻿ / ﻿40.5936°N 75.4784°W,https://en.wikipedia.org/wiki/Allentown,61.3,40.8,51.05,45.35
+233,234,Richardson,Texas,120981,99223,21.93,28.6,74.1,3963.0,1530.0,32°58′20″N 96°42′29″W﻿ / ﻿32.9723°N 96.7081°W,https://en.wikipedia.org/wiki/Richardson,75.6,54.6,65.1,41.49
+234,235,Odessa,Texas,120568,99940,20.64,45.2,117.1,2608.0,1007.0,31°53′02″N 102°20′28″W﻿ / ﻿31.8838°N 102.3411°W,https://en.wikipedia.org/wiki/Odessa,77.6,52.1,64.85,14.65
+235,236,Arvada,Colorado,120492,106433,13.21,38.6,100.0,3043.0,1175.0,39°50′01″N 105°09′01″W﻿ / ﻿39.8337°N 105.1503°W,https://en.wikipedia.org/wiki/Arvada,-,-,-,-
+236,237,Cambridge,Massachusetts,118977,105162,13.14,6.4,16.6,17289.0,6675.0,42°22′34″N 71°07′07″W﻿ / ﻿42.3760°N 71.1187°W,https://en.wikipedia.org/wiki/Cambridge,-,-,-,-
+237,238,Sugar Land,Texas,118600,78817,50.48,34.0,88.1,3488.0,1347.0,29°35′58″N 95°36′51″W﻿ / ﻿29.5994°N 95.6142°W,https://en.wikipedia.org/wiki/Sugar_Land,79.3,58.9,69.1,49.54
+238,239,Beaumont,Texas,118428,118296,0.11,82.1,212.6,1441.0,556.0,30°05′06″N 94°08′43″W﻿ / ﻿30.0849°N 94.1453°W,https://en.wikipedia.org/wiki/Beaumont,78.3,58.9,68.6,60.38
+239,240,Lansing,Michigan,118427,114297,3.61,39.1,101.3,2967.0,1146.0,42°42′51″N 84°33′33″W﻿ / ﻿42.7143°N 84.5593°W,https://en.wikipedia.org/wiki/Lansing,57.3,39.1,48.2,31.73
+240,241,Evansville,Indiana,117963,117429,0.45,47.3,122.5,2526.0,975.0,37°59′16″N 87°32′05″W﻿ / ﻿37.9877°N 87.5347°W,https://en.wikipedia.org/wiki/Evansville,66.9,45.7,56.3,45.39
+241,242,Rochester,Minnesota,116961,106769,9.55,54.6,141.4,2088.0,806.0,44°00′55″N 92°28′38″W﻿ / ﻿44.0154°N 92.4772°W,https://en.wikipedia.org/wiki/Rochester,54.5,35.8,45.15,33.08
+242,243,Independence,Missouri,116925,116830,0.08,77.8,201.5,1504.0,581.0,39°05′08″N 94°21′08″W﻿ / ﻿39.0855°N 94.3521°W,https://en.wikipedia.org/wiki/Independence,64.7,44.2,54.45,43.62
+243,244,Fairfield,California,116884,105321,10.98,40.9,105.9,2806.0,1083.0,38°15′33″N 122°01′56″W﻿ / ﻿38.2593°N 122.0321°W,https://en.wikipedia.org/wiki/Fairfield,73.2,48.7,60.95,24.89
+244,245,Provo,Utah,116702,112488,3.75,41.7,108.0,2803.0,1082.0,40°14′43″N 111°38′41″W﻿ / ﻿40.2453°N 111.6448°W,https://en.wikipedia.org/wiki/Provo,66.2,40.7,53.45,19.77
+245,246,Clearwater,Florida,116478,107685,8.17,25.9,67.1,4415.0,1705.0,27°58′44″N 82°46′00″W﻿ / ﻿27.9789°N 82.7666°W,https://en.wikipedia.org/wiki/Clearwater,81.9,65.4,73.65,54.73
+246,247,College Station,Texas,116218,93857,23.82,51.0,132.1,2199.0,849.0,30°35′07″N 96°17′47″W﻿ / ﻿30.5852°N 96.2964°W,https://en.wikipedia.org/wiki/College_Station,79.3,58.8,69.05,40.09
+247,248,West Jordan,Utah,116046,103712,11.89,32.3,83.7,3520.0,1360.0,40°36′09″N 112°00′03″W﻿ / ﻿40.6024°N 112.0008°W,https://en.wikipedia.org/wiki/West_Jordan,-,-,-,-
+248,249,Carlsbad,California,115877,105328,10.02,37.7,97.6,3023.0,1167.0,33°07′26″N 117°16′58″W﻿ / ﻿33.1239°N 117.2828°W,https://en.wikipedia.org/wiki/Carlsbad,68.5,55.2,61.85,11.85
+249,250,El Monte,California,115586,113475,1.86,9.6,24.9,12063.0,4658.0,34°04′29″N 118°01′45″W﻿ / ﻿34.0746°N 118.0291°W,https://en.wikipedia.org/wiki/El_Monte,-,-,-,-
+250,251,Murrieta,California,114985,103466,11.13,33.6,87.0,3324.0,1283.0,33°34′20″N 117°11′25″W﻿ / ﻿33.5721°N 117.1904°W,https://en.wikipedia.org/wiki/Murrieta,-,-,-,-
+251,252,Temecula,California,114742,100097,14.63,37.3,96.6,3031.0,1170.0,33°29′35″N 117°07′54″W﻿ / ﻿33.4931°N 117.1317°W,https://en.wikipedia.org/wiki/Temecula,76.5,52.9,64.7,-
+252,253,Springfield,Illinois,114694,116250,-1.34,60.1,155.7,1925.0,743.0,39°47′28″N 89°38′41″W﻿ / ﻿39.7911°N 89.6446°W,https://en.wikipedia.org/wiki/Springfield,63.0,42.9,52.95,37.44
+253,254,Palm Bay,Florida,114194,103190,10.66,65.7,170.2,1676.0,647.0,27°59′08″N 80°39′45″W﻿ / ﻿27.9856°N 80.6626°W,https://en.wikipedia.org/wiki/Palm_Bay,-,-,-,-
+254,255,Costa Mesa,California,113615,109960,3.32,15.7,40.7,7186.0,2775.0,33°39′57″N 117°54′44″W﻿ / ﻿33.6659°N 117.9123°W,https://en.wikipedia.org/wiki/Costa_Mesa,72.0,55.8,63.9,13.4
+255,256,Westminster,Colorado,113479,106114,6.94,31.7,82.1,3592.0,1387.0,39°52′56″N 105°03′52″W﻿ / ﻿39.8822°N 105.0644°W,https://en.wikipedia.org/wiki/Westminster,-,-,-,-
+256,257,North Charleston,South Carolina,113237,97471,16.18,73.7,190.9,1483.0,573.0,32°55′04″N 80°03′54″W﻿ / ﻿32.9178°N 80.0650°W,https://en.wikipedia.org/wiki/North_Charleston,-,-,-,-
+257,258,Miami Gardens,Florida,113069,107167,5.51,18.2,47.1,6212.0,2398.0,25°56′56″N 80°14′37″W﻿ / ﻿25.9489°N 80.2436°W,https://en.wikipedia.org/wiki/Miami_Gardens,-,-,-,-
+258,259,Manchester,New Hampshire,112525,109565,2.7,33.1,85.7,3339.0,1289.0,42°59′06″N 71°26′39″W﻿ / ﻿42.9849°N 71.4441°W,https://en.wikipedia.org/wiki/Manchester,58.5,37.5,48.0,41.97
+259,260,High Point,North Carolina,112316,104371,7.61,55.2,143.0,2015.0,778.0,35°59′24″N 79°59′26″W﻿ / ﻿35.9900°N 79.9905°W,https://en.wikipedia.org/wiki/High_Point,71.8,49.1,60.45,46.16
+260,261,Downey,California,112269,111772,0.44,12.4,32.1,9134.0,3527.0,33°56′18″N 118°07′51″W﻿ / ﻿33.9382°N 118.1309°W,https://en.wikipedia.org/wiki/Downey,-,-,-,-
+261,262,Clovis,California,112022,95631,17.14,24.2,62.7,4404.0,1700.0,36°49′42″N 119°41′06″W﻿ / ﻿36.8282°N 119.6849°W,https://en.wikipedia.org/wiki/Clovis,-,-,-,-
+262,263,Pompano Beach,Florida,111954,99845,12.13,24.0,62.2,4558.0,1760.0,26°14′30″N 80°08′02″W﻿ / ﻿26.2416°N 80.1339°W,https://en.wikipedia.org/wiki/Pompano_Beach,84.6,67.6,76.1,57.33
+263,264,Pueblo,Colorado,111750,106595,4.84,53.6,138.8,2058.0,795.0,38°16′12″N 104°36′44″W﻿ / ﻿38.2699°N 104.6123°W,https://en.wikipedia.org/wiki/Pueblo,68.9,38.5,53.7,12.99
+264,265,Elgin,Illinois,111683,108188,3.23,37.4,96.9,2998.0,1158.0,42°02′23″N 88°19′18″W﻿ / ﻿42.0396°N 88.3217°W,https://en.wikipedia.org/wiki/Elgin,58.8,38.6,48.7,37.8
+265,266,Lowell,Massachusetts,111670,106519,4.84,13.6,35.2,8129.0,3139.0,42°38′20″N 71°19′16″W﻿ / ﻿42.6390°N 71.3211°W,https://en.wikipedia.org/wiki/Lowell,59.8,37.0,48.4,47.01
+266,267,Antioch,California,111535,102372,8.95,29.4,76.1,3772.0,1456.0,37°58′45″N 121°47′46″W﻿ / ﻿37.9791°N 121.7962°W,https://en.wikipedia.org/wiki/Antioch,73.1,49.6,61.35,13.35
+267,268,West Palm Beach,Florida,111398,99919,11.49,55.1,142.7,1963.0,758.0,26°44′47″N 80°07′30″W﻿ / ﻿26.7464°N 80.1251°W,https://en.wikipedia.org/wiki/West_Palm_Beach,82.9,67.8,75.35,62.41
+268,269,Peoria,Illinois,111388,115007,-3.15,48.2,124.8,2371.0,915.0,40°45′05″N 89°37′03″W﻿ / ﻿40.7515°N 89.6174°W,https://en.wikipedia.org/wiki/Peoria,61.4,42.2,51.8,36.45
+269,270,Everett,Washington,111262,103019,8.0,33.3,86.2,3275.0,1264.0,47°57′24″N 122°11′29″W﻿ / ﻿47.9566°N 122.1914°W,https://en.wikipedia.org/wiki/Everett,57.6,44.7,51.15,36.1
+270,271,Ventura,California,111128,106433,4.41,21.8,56.5,5027.0,1941.0,34°16′04″N 119°15′15″W﻿ / ﻿34.2678°N 119.2542°W,https://en.wikipedia.org/wiki/Ventura,-,-,-,-
+271,272,Centennial,Colorado,110831,100377,10.41,29.5,76.4,3727.0,1439.0,39°35′26″N 104°52′09″W﻿ / ﻿39.5906°N 104.8691°W,https://en.wikipedia.org/wiki/Centennial,-,-,-,-
+272,273,Lakeland,Florida,110516,97422,13.44,65.9,170.7,1615.0,624.0,28°03′20″N 81°57′18″W﻿ / ﻿28.0555°N 81.9549°W,https://en.wikipedia.org/wiki/Lakeland,85.5,63.0,74.25,49.15
+273,274,Gresham,Oregon,110158,105594,4.32,23.3,60.3,4786.0,1848.0,45°30′08″N 122°26′30″W﻿ / ﻿45.5023°N 122.4416°W,https://en.wikipedia.org/wiki/Gresham,-,-,-,-
+274,275,Richmond,California,110146,103701,6.21,30.1,78.0,3648.0,1409.0,37°57′08″N 122°21′38″W﻿ / ﻿37.9523°N 122.3606°W,https://en.wikipedia.org/wiki/Richmond,66.7,50.5,58.6,24.98
+275,276,Billings,Montana,109550,104170,5.16,43.7,113.2,2525.0,975.0,45°47′19″N 108°33′00″W﻿ / ﻿45.7885°N 108.5499°W,https://en.wikipedia.org/wiki/Billings,59.3,36.8,48.05,13.66
+276,277,Inglewood,California,109419,109673,-0.23,9.1,23.6,12160.0,4700.0,33°57′22″N 118°20′39″W﻿ / ﻿33.9561°N 118.3443°W,https://en.wikipedia.org/wiki/Inglewood,-,-,-,-
+277,278,Broken Arrow,Oklahoma,109171,98850,10.44,61.7,159.8,1741.0,672.0,36°02′11″N 95°46′52″W﻿ / ﻿36.0365°N 95.7810°W,https://en.wikipedia.org/wiki/Broken_Arrow,-,-,-,-
+278,279,Sandy Springs,Georgia,108797,93853,15.92,37.7,97.6,2804.0,1083.0,33°55′53″N 84°22′07″W﻿ / ﻿33.9315°N 84.3687°W,https://en.wikipedia.org/wiki/Sandy_Springs,-,-,-,-
+279,280,Jurupa Valley,California,108393,0,0.0,42.9,111.1,2414.0,932.0,34°00′09″N 117°28′03″W﻿ / ﻿34.0026°N 117.4676°W,https://en.wikipedia.org/wiki/Jurupa_Valley,-,-,-,-
+280,281,Hillsboro,Oregon,108389,91611,18.31,25.0,64.7,4207.0,1624.0,45°31′41″N 122°56′09″W﻿ / ﻿45.5280°N 122.9357°W,https://en.wikipedia.org/wiki/Hillsboro,63.0,43.8,53.4,38.17
+281,282,Waterbury,Connecticut,108093,110366,-2.06,28.5,73.8,3799.0,1467.0,41°33′31″N 73°02′12″W﻿ / ﻿41.5585°N 73.0367°W,https://en.wikipedia.org/wiki/Waterbury,-,-,-,-
+282,283,Santa Maria,California,107408,99553,7.89,22.8,59.1,4662.0,1800.0,34°56′00″N 120°26′38″W﻿ / ﻿34.9332°N 120.4438°W,https://en.wikipedia.org/wiki/Santa_Maria,68.6,46.6,57.6,14.02
+283,284,Boulder,Colorado,107353,97385,10.24,24.8,64.2,4358.0,1683.0,40°01′37″N 105°15′07″W﻿ / ﻿40.0270°N 105.2519°W,https://en.wikipedia.org/wiki/Boulder,65.3,37.8,51.55,20.66
+284,285,Greeley,Colorado,107348,92889,15.57,47.8,123.8,2176.0,840.0,40°24′55″N 104°46′11″W﻿ / ﻿40.4153°N 104.7697°W,https://en.wikipedia.org/wiki/Greeley,68.8,36.7,52.75,14.67
+285,286,Daly City,California,107008,101123,5.82,7.6,19.7,14009.0,5409.0,37°42′03″N 122°27′54″W﻿ / ﻿37.7009°N 122.4650°W,https://en.wikipedia.org/wiki/Daly_City,-,-,-,-
+286,287,Meridian,Idaho,106804,75092,42.23,29.8,77.2,3584.0,1384.0,43°36′51″N 116°23′56″W﻿ / ﻿43.6142°N 116.3989°W,https://en.wikipedia.org/wiki/Meridian,-,-,-,-
+287,288,Lewisville,Texas,106586,95290,11.85,36.7,95.1,2852.0,1101.0,33°02′48″N 96°58′54″W﻿ / ﻿33.0466°N 96.9818°W,https://en.wikipedia.org/wiki/Lewisville,-,-,-,-
+288,289,Davie,Florida,106558,91992,15.83,34.9,90.4,2919.0,1127.0,26°04′45″N 80°17′06″W﻿ / ﻿26.0791°N 80.2850°W,https://en.wikipedia.org/wiki/Davie,-,-,-,-
+289,290,West Covina,California,106311,106098,0.2,16.0,41.4,6740.0,2600.0,34°03′21″N 117°54′36″W﻿ / ﻿34.0559°N 117.9099°W,https://en.wikipedia.org/wiki/West_Covina,-,-,-,-
+290,291,League City,Texas,106244,83560,27.15,51.2,132.6,1992.0,769.0,29°29′24″N 95°06′33″W﻿ / ﻿29.4901°N 95.1091°W,https://en.wikipedia.org/wiki/League_City,-,-,-,-
+291,292,Tyler,Texas,105729,96900,9.11,56.6,146.6,1852.0,715.0,32°19′02″N 95°18′21″W﻿ / ﻿32.3173°N 95.3059°W,https://en.wikipedia.org/wiki/Tyler,76.8,54.3,65.55,46.66
+292,293,Norwalk,California,105120,105549,-0.41,9.7,25.1,10946.0,4226.0,33°54′27″N 118°05′01″W﻿ / ﻿33.9076°N 118.0835°W,https://en.wikipedia.org/wiki/Norwalk,-,-,-,-
+293,294,San Mateo,California,105025,97207,8.04,12.1,31.3,8592.0,3317.0,37°33′37″N 122°18′38″W﻿ / ﻿37.5603°N 122.3106°W,https://en.wikipedia.org/wiki/San_Mateo,-,-,-,-
+294,295,Green Bay,Wisconsin,104879,104057,0.79,45.4,117.6,2316.0,894.0,44°31′15″N 87°59′03″W﻿ / ﻿44.5207°N 87.9842°W,https://en.wikipedia.org/wiki/Green_Bay,53.5,34.8,44.15,29.53
+295,296,Wichita Falls,Texas,104576,104553,0.02,72.2,187.0,1450.0,560.0,33°54′24″N 98°31′33″W﻿ / ﻿33.9067°N 98.5259°W,https://en.wikipedia.org/wiki/Wichita_Falls,-,-,-,-
+296,297,Sparks,Nevada,104246,90264,15.49,35.9,93.0,2810.0,1080.0,39°33′16″N 119°44′08″W﻿ / ﻿39.5544°N 119.7356°W,https://en.wikipedia.org/wiki/Sparks,68.3,36.6,52.45,8.26
+297,298,Lakewood,New Jersey,104157,92843,12.19,24.7,64.0,4079.0,1575.0,40°04′38″N 74°12′01″W﻿ / ﻿40.0771°N 74.2004°W,https://en.wikipedia.org/wiki/Lakewood,-,-,-,-
+298,299,Burbank,California,103695,103340,0.34,17.4,45.1,6003.0,2318.0,34°11′24″N 118°19′35″W﻿ / ﻿34.1901°N 118.3264°W,https://en.wikipedia.org/wiki/Burbank,76.3,51.7,64.0,17.35
+299,300,Rialto,California,103440,99171,4.3,22.3,57.8,4633.0,1789.0,34°06′42″N 117°23′18″W﻿ / ﻿34.1118°N 117.3883°W,https://en.wikipedia.org/wiki/Rialto,-,-,-,-
+300,301,Allen,Texas,103383,84246,22.72,27.1,70.2,3715.0,1434.0,33°05′59″N 96°39′47″W﻿ / ﻿33.0997°N 96.6631°W,https://en.wikipedia.org/wiki/Allen,-,-,-,-
+301,302,El Cajon,California,103241,99478,3.78,14.5,37.6,7156.0,2763.0,32°48′06″N 116°57′37″W﻿ / ﻿32.8017°N 116.9604°W,https://en.wikipedia.org/wiki/El_Cajon,78.0,52.7,65.35,12.37
+302,303,Las Cruces,New Mexico,102926,97618,5.44,76.9,199.2,1323.0,511.0,32°19′35″N 106°47′23″W﻿ / ﻿32.3264°N 106.7897°W,https://en.wikipedia.org/wiki/Las_Cruces,77.7,47.3,62.5,9.76
+303,304,Renton,Washington,102153,90927,12.35,23.4,60.6,4314.0,1666.0,47°28′34″N 122°11′31″W﻿ / ﻿47.4761°N 122.1920°W,https://en.wikipedia.org/wiki/Renton,60.9,45.3,53.1,40.0
+304,305,Davenport,Iowa,102085,99685,2.41,62.9,162.9,1631.0,630.0,41°33′15″N 90°36′14″W﻿ / ﻿41.5541°N 90.6040°W,https://en.wikipedia.org/wiki/Davenport,59.3,39.3,49.3,35.97
+305,306,South Bend,Indiana,101860,101168,0.68,41.4,107.2,2457.0,949.0,41°40′37″N 86°16′08″W﻿ / ﻿41.6769°N 86.2690°W,https://en.wikipedia.org/wiki/South_Bend,58.8,40.8,49.8,38.0
+306,307,Vista,California,101224,93834,7.88,18.7,48.4,5436.0,2099.0,33°11′22″N 117°14′19″W﻿ / ﻿33.1895°N 117.2386°W,https://en.wikipedia.org/wiki/Vista,73.0,53.3,63.15,13.23
+307,308,Tuscaloosa,Alabama,101113,90468,11.77,71.7,185.7,1399.0,540.0,33°12′23″N 87°32′05″W﻿ / ﻿33.2065°N 87.5346°W,https://en.wikipedia.org/wiki/Tuscaloosa,76.3,53.6,64.95,54.91
+308,309,Clinton,Michigan,100800,96796,4.14,28.1,72.8,3573.0,1380.0,42°35′25″N 82°55′01″W﻿ / ﻿42.5903°N 82.9170°W,https://en.wikipedia.org/wiki/Clinton,-,-,-,-
+309,310,Edison,New Jersey,100693,99967,0.73,30.1,78.0,3389.0,1309.0,40°30′14″N 74°20′58″W﻿ / ﻿40.5040°N 74.3494°W,https://en.wikipedia.org/wiki/Edison,-,-,-,-
+310,311,Woodbridge,New Jersey,100450,99585,0.87,23.3,60.3,4351.0,1680.0,40°33′39″N 74°17′34″W﻿ / ﻿40.5607°N 74.2927°W,https://en.wikipedia.org/wiki/Woodbridge,-,-,-,-
+311,312,San Angelo,Texas,100215,93200,7.53,59.9,155.1,1681.0,649.0,31°26′28″N 100°27′02″W﻿ / ﻿31.4411°N 100.4505°W,https://en.wikipedia.org/wiki/San_Angelo,78.3,52.8,65.55,21.22
+312,313,Kenosha,Wisconsin,100164,99218,0.95,28.0,72.5,3577.0,1381.0,42°34′56″N 87°50′44″W﻿ / ﻿42.5822°N 87.8456°W,https://en.wikipedia.org/wiki/Kenosha,55.4,40.4,47.9,36.14
+313,314,Vacaville,California,100154,92428,8.36,29.0,75.1,3449.0,1332.0,38°21′14″N 121°58′22″W﻿ / ﻿38.3539°N 121.9728°W,https://en.wikipedia.org/wiki/Vacaville,76.2,48.8,62.5,24.53
