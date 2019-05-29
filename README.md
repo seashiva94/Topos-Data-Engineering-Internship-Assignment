@@ -15,3 +15,16 @@ and pandas and numpy were used for data cleaning.
 
 Some priliminary Exploraory analysis was done using seaborn and
 matplotlib.
+
+
+To run the scraper and save the data in the csv file run:
+
+./scraper.py -f [filepath]
+
+or simply  run
+
+./scraper.py
+
+to scrape and save the data in "cities_data.csv"
+
+where filename is the relative path to the csv file

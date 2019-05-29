@@ -1,7 +1,41 @@
-import requestsx
+#! /usr/bin/env python
+
+import requests
 import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup
+import argparse
+
+def get_weather_data(city, state, code):
+    url='https://www.usclimatedata.com/climate/' + city + '/' + state + '/united-states/' + code
+    table_idx = 2
+    res = requests.get(url)
+    soup = BeautifulSoup(res.content)
+    table = soup.find_all('table')[table_idx]
+    df = pd.read_html(str(table))[0]
+    df = df.T.dropna(axis = 1)
+    df.columns = df.iloc[0,:]
+    df = df.drop(0, axis = 0)
+    return df
+
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument("-f", "--file",
+                         dest = "filename",
+                         default = "cities_data.csv",
+                         type=str,
+                         help = "dave the data in the specified file")
+
+parser.add_argument("-e", "--eda",
+                         dest = "EDA",
+                         default = False,
+                         action = 'store_true',
+                         help = "Whether to show EDA results or not")
+    
+args = parser.parse_args()
+filename = args.filename
+print(filename, args.EDA)
 
 base_url= 'https://en.wikipedia.org/wiki/'
 url = base_url + 'List_of_United_States_cities_by_population'
@@ -20,19 +54,6 @@ cities_df.city = cities_df.city.apply(lambda x: x.split('[')[0])
 
 city_url = cities_df.city.apply(lambda x: base_url + "_".join(x.split()))
 cities_df['wiki_city_url'] = city_url
-
-def get_weather_data(city, state, code):
-    url='https://www.usclimatedata.com/climate/' + city + '/' + state + '/united-states/' + code
-    table_idx = 2
-    res = requests.get(url)
-    soup = BeautifulSoup(res.content)
-    table = soup.find_all('table')[table_idx]
-    df = pd.read_html(str(table))[0]
-    df = df.T.dropna(axis = 1)
-    df.columns = df.iloc[0,:]
-    df = df.drop(0, axis = 0)
-    return df
-
 all_states = 'https://www.usclimatedata.com/'
 state_table = BeautifulSoup(requests.get(all_states).content).find_all('table')[3]
 state_urls = state_table.findAll('a')
@@ -157,10 +178,10 @@ final_df.drop(['Av. annual snowfall', 'Annual hours of sunshine (hours)','Days p
 
 print(final_df.head())
 
-final_df.to_csv(path_or_buf="cities_data.csv", header=True, sep=',', na_rep="-")
+final_df.to_csv(path_or_buf=filename, header=True, sep=',', na_rep="-")
 
 ### EDA
-if EDA ==  True:
+if args.EDA ==  True:
     import seaborn as sns
     import matplotlib.pyplot as plt
 
